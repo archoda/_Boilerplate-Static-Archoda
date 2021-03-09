@@ -1,0 +1,3 @@
+const plugin = {};
+
+const s = [];

@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js","plugin.js"],"names":["plugin","s"],"mappings":"AAAA,aCAA,MAAAA,OAAA,GAEAC,EAAA","file":"bundle.js","sourcesContent":["'use strict'","const plugin = {};\n\nconst s = [];"]}
